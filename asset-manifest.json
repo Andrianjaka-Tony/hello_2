@@ -1,16 +1,28 @@
 {
   "files": {
-    "main.css": "./static/css/main.b0c46010.css",
-    "main.js": "./static/js/main.1b97ec20.js",
+    "main.css": "./static/css/main.32f86356.css",
+    "main.js": "./static/js/main.c95719b7.js",
+    "static/media/img7.png": "./static/media/img7.8937f649185c87b229ee.png",
+    "static/media/img5.png": "./static/media/img5.1fe5a65061071259ba69.png",
+    "static/media/img1.png": "./static/media/img1.05b01f18e574b0e54f9f.png",
+    "static/media/img9.png": "./static/media/img9.7f2b7cadf396c5b97842.png",
+    "static/media/img8.png": "./static/media/img8.b886ca9f23f2db99f7a3.png",
+    "static/media/img6.png": "./static/media/img6.c6c68fe0edf340a1b83e.png",
     "static/media/PlayfairDisplay-Regular.ttf": "./static/media/PlayfairDisplay-Regular.6a97b5c64f316f567fa1.ttf",
     "static/media/Roboto-Regular.ttf": "./static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
     "static/media/Poppins-Light.ttf": "./static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
+    "static/media/img4.png": "./static/media/img4.9cd163e1ea9b4b747593.png",
+    "static/media/img10.png": "./static/media/img10.ce9d1fe1221d310fe093.png",
+    "static/media/img11.png": "./static/media/img11.b5f87f5d7fe2a003f927.png",
+    "static/media/img12.png": "./static/media/img12.290c6c527f5a6098ce1f.png",
+    "static/media/img3.png": "./static/media/img3.16fdf365bedf72971cbe.png",
+    "static/media/img2.png": "./static/media/img2.00543e5e638898480d98.png",
     "index.html": "./index.html",
-    "main.b0c46010.css.map": "./static/css/main.b0c46010.css.map",
-    "main.1b97ec20.js.map": "./static/js/main.1b97ec20.js.map"
+    "main.32f86356.css.map": "./static/css/main.32f86356.css.map",
+    "main.c95719b7.js.map": "./static/js/main.c95719b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0c46010.css",
-    "static/js/main.1b97ec20.js"
+    "static/css/main.32f86356.css",
+    "static/js/main.c95719b7.js"
   ]
 }
