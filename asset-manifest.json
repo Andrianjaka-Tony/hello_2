@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b0c46010.css",
+    "main.js": "./static/js/main.1b97ec20.js",
+    "static/media/PlayfairDisplay-Regular.ttf": "./static/media/PlayfairDisplay-Regular.6a97b5c64f316f567fa1.ttf",
+    "static/media/Roboto-Regular.ttf": "./static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Poppins-Light.ttf": "./static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
+    "index.html": "./index.html",
+    "main.b0c46010.css.map": "./static/css/main.b0c46010.css.map",
+    "main.1b97ec20.js.map": "./static/js/main.1b97ec20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0c46010.css",
+    "static/js/main.1b97ec20.js"
+  ]
+}
