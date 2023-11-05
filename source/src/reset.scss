@@ -1,0 +1,38 @@
+:root {
+  font-size: 16px;
+
+  --color: #fff;
+  --theme: #1abc9c;
+  --bg-color: #333;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+*::-webkit-scrollbar {
+  display: none;
+}
+
+@font-face {
+  font-family: Poppins light;
+  src: url(./font/Poppins-Light.ttf);
+}
+
+@font-face {
+  font-family: Roboto regular;
+  src: url(./font/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: Playfair display regular;
+  src: url(./font/PlayfairDisplay-Regular.ttf);
+}

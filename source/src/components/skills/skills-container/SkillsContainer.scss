@@ -1,0 +1,40 @@
+.skills__container {
+  padding: 60px 0;
+
+  .skills__container__title {
+    text-transform: uppercase;
+    font-family: Playfiar display regular;
+    font-weight: inherit;
+    width: 100%;
+    padding: 0 150px;
+    margin-bottom: 40px;
+    font-size: 60px;
+    color: var(--theme);
+
+    @media screen and (max-width: 768px) {
+      font-size: 36px;
+      gap: 9px;
+      padding: 0 30px;
+    }
+  }
+
+  .skills__container__text {
+    font-family: Poppins;
+    padding: 0 150px;
+    margin-bottom: 60px;
+    font-size: 22px;
+
+    @media screen and (max-width: 768px) {
+      font-size: 16px;
+      padding: 0 30px;
+    }
+
+    .sentence__wrapper {
+      gap: 5.5px;
+
+      @media screen and (max-width: 768px) {
+        gap: 4px;
+      }
+    }
+  }
+}

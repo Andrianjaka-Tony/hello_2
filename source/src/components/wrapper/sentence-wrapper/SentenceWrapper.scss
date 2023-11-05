@@ -1,0 +1,9 @@
+.sentence__wrapper {
+  display: flex;
+  flex-wrap: wrap;
+
+  .sentece__wrapper__word {
+    overflow: hidden;
+    display: flex;
+  }
+}

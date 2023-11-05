@@ -1,0 +1,65 @@
+.skills__card {
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  padding: 40px 150px 5px 150px;
+  gap: 20px;
+  font-family: Poppins light;
+  position: relative;
+
+  @media screen and (max-width: 768px) {
+    padding: 40px 30px 5px 30px;
+    gap: 10px;
+  }
+
+  .skills__card__icon svg {
+    height: 60px;
+    width: 60px;
+    fill: var(--theme);
+
+    @media screen and (max-width: 768px) {
+      height: 40px;
+      width: 40px;
+    }
+  }
+
+  h2 {
+    line-height: 1;
+  }
+
+  .skills__card__title {
+    font-size: 40px;
+    font-weight: inherit;
+    text-transform: uppercase;
+
+    @media screen and (max-width: 768px) {
+      font-size: 24px;
+    }
+  }
+
+  .skills__card__value {
+    margin-left: auto;
+    display: flex;
+    font-size: 36px;
+    margin-top: 4px;
+    font-weight: inherit;
+
+    @media screen and (max-width: 768px) {
+      font-size: 20px;
+      // margin-top: -2px;
+    }
+  }
+
+  .border {
+    position: absolute;
+    bottom: 0;
+    width: calc(100% - 300px);
+    background: var(--theme);
+    height: 3px;
+    transform-origin: left;
+
+    @media screen and (max-width: 768px) {
+      width: calc(100% - 60px);
+    }
+  }
+}
